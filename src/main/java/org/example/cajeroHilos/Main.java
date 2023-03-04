@@ -1,4 +1,7 @@
-package org.example;
+package org.example.cajeroHilos;
+
+import org.example.cajeroHilos.Cajera;
+import org.example.cajeroHilos.Cliente;
 
 public class Main {
 

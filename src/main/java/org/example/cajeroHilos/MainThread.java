@@ -1,4 +1,7 @@
-package org.example;
+package org.example.cajeroHilos;
+
+import org.example.cajeroHilos.CajeraThread;
+import org.example.cajeroHilos.Cliente;
 
 public class MainThread {
 
