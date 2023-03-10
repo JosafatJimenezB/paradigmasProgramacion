@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7f6800-8b5a-42d7-a767-3aff85ee31c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Interfaz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Impares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Impares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Pares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Pares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

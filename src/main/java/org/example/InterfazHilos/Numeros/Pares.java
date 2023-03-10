@@ -1,17 +1,28 @@
 package org.example.InterfazHilos.Numeros;
 
+import javax.swing.*;
 public class Pares extends Thread{
 
-    public void run(){
+    private JTextArea areaTexto;
+
+    public Pares(JTextArea areaTexto) {
+        this.areaTexto = areaTexto;
+    }
+
+    public void run() {
         int n;
-        int contador=0;
-        for (n=1;n<=10;n++){
+        int contador = 0;
+        for (n = 1; n <= 10; n++) {
             if (n % 2 == 0) {
-                System.out.print(" "+n+"\n");
-                contador=contador+n;
+                String numero = " " + n + "\n";
+                contador = contador + n;
+                SwingUtilities.invokeLater(() -> areaTexto.append(numero));
             }
         }
-        System.out.print("La suma de los pares es : "+contador + "\n");
-        System.out.print(" ******************** \n");
+        String suma = "La suma de los pares es : " + contador + "\n";
+        SwingUtilities.invokeLater(() -> {
+            areaTexto.append(suma);
+            areaTexto.append(" ******************** \n");
+        });
     }
 }
