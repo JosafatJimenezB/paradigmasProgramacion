@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7f6800-8b5a-42d7-a767-3aff85ee31c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntroHilos/ThreadEjemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntroHilos/ThreadEjemplo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IntroHilos/ThreadEjemplo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IntroHilos/ThreadEjemplo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +39,11 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/h4rt0ch/Documentos/6 semestre/Paradigmas programacion/paradigmasProgramacion",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "io.unthrottled.amii.config.ui.PluginSettingsUI",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ThreadEjemplo2">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.cajeroHilos.Main" />
       <module name="ParadigmasProgramacion" />
@@ -75,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cajeroHilos.MainThread" />
-      <module name="ParadigmasProgramacion" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.InterfazHilos.Numeros.Principal" />
+      <module name="paradigmasProgramacion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.cajeroHilos.*" />
+          <option name="PATTERN" value="org.example.InterfazHilos.Numeros.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadEjemplo2" />
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.ThreadEjemplo" />
+        <item itemvalue="Application.ThreadEjemplo2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainRunnable" />
-        <item itemvalue="Application.MainThread" />
       </list>
     </recent_temporary>
   </component>
