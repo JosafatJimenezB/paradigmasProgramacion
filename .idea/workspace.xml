@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7f6800-8b5a-42d7-a767-3aff85ee31c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Interfaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Impares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Impares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Pares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Pares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/Principal.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +43,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/h4rt0ch/Documentos/6 semestre/Paradigmas programacion/paradigmasProgramacion",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "io.unthrottled.amii.config.ui.PluginSettingsUI",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.MainFrame">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.cajeroHilos.Main" />
       <module name="ParadigmasProgramacion" />
@@ -61,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cajeroHilos.MainRunnable" />
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.InterfazHilos.Numeros.MainFrame" />
       <module name="ParadigmasProgramacion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.cajeroHilos.*" />
+          <option name="PATTERN" value="org.example.InterfazHilos.Numeros.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,7 +78,7 @@
     </configuration>
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.InterfazHilos.Numeros.Principal" />
-      <module name="paradigmasProgramacion" />
+      <module name="ParadigmasProgramacion" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.InterfazHilos.Numeros.*" />
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainFrame" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.ThreadEjemplo" />
         <item itemvalue="Application.ThreadEjemplo2" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainRunnable" />
       </list>
     </recent_temporary>
   </component>
@@ -148,5 +150,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/InterfazHilos/Numeros/MainFrame.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
