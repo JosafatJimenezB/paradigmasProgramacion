@@ -1,8 +1,5 @@
 package org.example.cajeroHilos;
 
-import org.example.cajeroHilos.CajeraThread;
-import org.example.cajeroHilos.Cliente;
-
 public class MainThread {
 
     public static void main(String[] args) {

@@ -1,8 +1,5 @@
 package org.example.cajeroHilos;
 
-import org.example.cajeroHilos.Cajera;
-import org.example.cajeroHilos.Cliente;
-
 public class Main {
 
     public static void main(String[] args) {
